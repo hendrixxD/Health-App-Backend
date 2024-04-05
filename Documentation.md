@@ -2,16 +2,17 @@
 
 ## Introduction
 
-  The goal of this application is to make it possible for elderly people to manage thier health effectively using some google technologies. the core features of this application are:
-  
-  1. Register ✅
-  2. Login✅
-  3. chat integration with Openai✅
-  4. Profile creation on Registration ✅
-  5. Profile update ✅
-  6. Emergencies with map - Not yet
-  7. Monitoring Health activity with dashboard✅
-  8. Scheduling of Health events✅
+  Empowering Elderly Health Management with Google Technologies.
+
+  Core Features: 
+   1. Register ✅
+   2. Login✅
+   3. chat integration with Openai✅
+   4. Profile creation on Registration ✅
+   5. Profile update ✅
+   6. Emergencies with google maps✅
+   7. Monitoring Health activity with dashboard✅
+   8. Scheduling of Health events✅
 
 
 ## Getting Started
@@ -61,3 +62,7 @@ This will access 5 different services:
 - The generals info captued within the public scope
 - users birthday information
 - google calender
+
+## Conclusion
+
+In conclusion, our application represents a pioneering solution for empowering elderly individuals to manage their health effectively using Google technologies. By harnessing the power of personalized health monitoring, medication management, we aim to enhance the quality of life for seniors worldwide. Committed to upholding global standards of excellence, our platform embodies innovation, accessibility, and compassion in serving the unique healthcare needs of the elderly populatio
