@@ -4,7 +4,7 @@
 
  In an era marked by technological advancements, the fusion of innovation with healthcare holds immense potential, particularly in catering to the needs of elderly individuals. With a focus on enhancing health management for the elderly population, our application integrates cutting-edge Google technologies. Designed to adhere to global standards, our platform aims to revolutionize how seniors engage with their health, ensuring efficient management and improved well-being.
 
-  Core Features: 
+  Core Backend Features: 
    1. Register ✅
    2. Login✅
    3. chat integration with Openai✅
