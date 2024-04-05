@@ -2,7 +2,7 @@
 
 ## Introduction
 
-  Empowering Elderly Health Management with Google Technologies.
+ In an era marked by technological advancements, the fusion of innovation with healthcare holds immense potential, particularly in catering to the needs of elderly individuals. With a focus on enhancing health management for the elderly population, our application integrates cutting-edge Google technologies. Designed to adhere to global standards, our platform aims to revolutionize how seniors engage with their health, ensuring efficient management and improved well-being.
 
   Core Features: 
    1. Register ✅
@@ -23,8 +23,8 @@ Ensuring that the server is up and running...
  - `nodemone ./src/index.js` will start the server and connect to the mongodb cluster
  - `https://senexcare.onrender.com/auth/google` will redirect you the the auth page to signin
  
- **NOTE** the application is still within the testing face
-  - use the email: `senexcaretestuser@gmail.com` and password: `SENEXCAREtestuser1~` to singin
+ **NOTE** this application is still within the development face
+  - use the email: `senexcaretestuser@gmail.com` and password: `SENEXCAREtestuser1~` to singin/signup
 
 
 ## User Interface Overview:
@@ -51,14 +51,14 @@ Within this application also, there is a chat room available where users can acc
 
 ## Technologies incoporated:
 
-- openai
+- Gemini
 - Google Maps
 - Google OAuth2client with passport authentication
 - Google Calendar
 
 ## Privacy Information:
 
-This will access 5 different services:
+This appliation will access 5 different services:
 - The generals info captued within the public scope
 - users birthday information
 - google calender
